@@ -1,0 +1,8 @@
+LOAD //Users//Aliez//CLionProjects//Rb-Tree//unix.txt
+DUMP
+INSERT abc 3
+GET abc
+PUT abc 33
+GET abc
+DELETE abc
+GET abc
